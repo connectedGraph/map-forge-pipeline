@@ -878,6 +878,10 @@ export default function MapAnnotator() {
                 <option value="1">海上群岛 (sea-islands)</option>
                 <option value="2">星际探索 (space-frontier)</option>
                 <option value="3">天空浮岛 (sky-isles)</option>
+                <option value="4">沙岩峡谷 (desert-canyon)</option>
+                <option value="5">冰封冻土 (frost-tundra)</option>
+                <option value="6">炽热火山 (ember-volcano)</option>
+                <option value="7">霓虹都市 (neon-city)</option>
               </select>
             </div>
 
